@@ -14,4 +14,5 @@ console.log("Is Prime (11):", submodule2.isPrime(11));
 console.log("-----------------------");
 console.log("Subtree repo:");
 console.log("Divide (5):", subtree.divide(10, 2));
+console.log("Modulus (10 % 3):", subtree.modulus(10, 3));
 console.log("-----------------------");
