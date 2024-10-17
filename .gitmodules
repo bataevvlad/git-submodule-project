@@ -1,3 +1,6 @@
 [submodule "submodule-repo-1"]
 	path = submodule-repo-1
 	url = ../submodule-repo-1
+[submodule "submodule-repo-2"]
+	path = submodule-repo-2
+	url = ../submodule-repo-2
